@@ -1,0 +1,27 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#mycrousel {
+    background-color: red;
+}
+
+#mycrousel.img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.crousel_inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: green;
+    font-size: 20px;
+}
+
+/*Start your code from here */
